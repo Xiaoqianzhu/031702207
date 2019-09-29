@@ -1,4 +1,4 @@
-# encoding=utf-8
+#-*-coding:UTF_8-*-
 import re
 import json
 
